@@ -23,7 +23,7 @@
   ],
   "dependencies": {
     "encoding": "*",
-    "jsdom": "*",
+    "jsdom": "9",
     "minimist": "*",
     "request": "*"
   },
