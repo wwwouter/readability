@@ -22,10 +22,10 @@
     }
   ],
   "dependencies": {
-    "encoding": "~0.1.7",
-    "jsdom": "^6.3.0",
-    "minimist": "^1.2.0",
-    "request": "~2.40.0"
+    "encoding": "*",
+    "jsdom": "*",
+    "minimist": "*",
+    "request": "*"
   },
   "engines": {
     "node": ">= 2"
